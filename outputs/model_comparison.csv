@@ -1,0 +1,5 @@
+Model,Features,Accuracy
+Random Forest (Original),57,86.74
+Autoencoder + RF (8D),8,71.97
+Autoencoder + RF (16D),16,74.77
+Autoencoder + RF (32D),32,78.38
